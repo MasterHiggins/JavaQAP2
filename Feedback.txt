@@ -1,0 +1,11 @@
+1. This assessment took a few days from start to finish. In hours, maybe 10 or 15.
+
+2. As opposed to just the usual stack overflow and W3 Schools, I also used firship.io a little bit to help with syntaxing.
+
+3. I did not ask any friends for help on this assessment.
+
+4. I did not ask any instructors for help.
+
+5. From 1-10, this QAP was about an 8 in difficulty. It was a good challenge, and required a lot of thinking, perhaps a little
+   too much for my tiny brain, but it was a good one. Definitely helped with how I would think in a future assessment though,
+   it should help with needing to use multiple classes at once, especially in the case of the third task.
